@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a30ed0ed.chunk.css",
+    "main.js": "/static/js/main.ee3c1342.chunk.js",
+    "main.js.map": "/static/js/main.ee3c1342.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.65068e69.js",
+    "runtime-main.js.map": "/static/js/runtime-main.65068e69.js.map",
+    "static/js/2.ad5fb1df.chunk.js": "/static/js/2.ad5fb1df.chunk.js",
+    "static/js/2.ad5fb1df.chunk.js.map": "/static/js/2.ad5fb1df.chunk.js.map",
+    "static/js/3.0208f0e9.chunk.js": "/static/js/3.0208f0e9.chunk.js",
+    "static/js/3.0208f0e9.chunk.js.map": "/static/js/3.0208f0e9.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.a30ed0ed.chunk.css.map": "/static/css/main.a30ed0ed.chunk.css.map",
+    "static/js/2.ad5fb1df.chunk.js.LICENSE.txt": "/static/js/2.ad5fb1df.chunk.js.LICENSE.txt",
+    "static/media/Almagul.jpeg": "/static/media/Almagul.4e7776c0.jpeg",
+    "static/media/Baratov.jpg": "/static/media/Baratov.09306b2c.jpg",
+    "static/media/Danil.jpg": "/static/media/Danil.8cc81613.jpg",
+    "static/media/Dilmurat.jpg": "/static/media/Dilmurat.99387363.jpg",
+    "static/media/Dmitry.jpg": "/static/media/Dmitry.d24c53e9.jpg",
+    "static/media/Islam.jpg": "/static/media/Islam.3e0520a8.jpg",
+    "static/media/Islamjan.jpg": "/static/media/Islamjan.365e4d01.jpg",
+    "static/media/Nura.jpg": "/static/media/Nura.a0a5b501.jpg",
+    "static/media/Nurgali.jpg": "/static/media/Nurgali.6e16d376.jpg",
+    "static/media/Ramz.jpg": "/static/media/Ramz.c556e92d.jpg",
+    "static/media/Samir.jpg": "/static/media/Samir.0c95924c.jpg",
+    "static/media/Shaha.jpg": "/static/media/Shaha.71fca529.jpg",
+    "static/media/Tahirzhan.jpg": "/static/media/Tahirzhan.68927c53.jpg",
+    "static/media/Uliana.jpg": "/static/media/Uliana.de55b879.jpg",
+    "static/media/Vladimir.jpg": "/static/media/Vladimir.8a02ddee.jpg",
+    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg",
+    "static/media/react.png": "/static/media/react.c6e5c756.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.65068e69.js",
+    "static/js/2.ad5fb1df.chunk.js",
+    "static/css/main.a30ed0ed.chunk.css",
+    "static/js/main.ee3c1342.chunk.js"
+  ]
+}
